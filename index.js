@@ -1,6 +1,6 @@
 const farmAnimals = 'cow horse sheep pig chicken';
 
-const [caw,	neigh,bleat,oink,cluck] = farmAnimals.split(' ');
+const [moo,neigh,bleat,oink,cluck] = farmAnimals.split(' ');
 const [bessie,,dolly, babe,little]=farmAnimals.split(' ');
 const [blackAndWhite,,black,pink]=farmAnimals.split(' ');
 

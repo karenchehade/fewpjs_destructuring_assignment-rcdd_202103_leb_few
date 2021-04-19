@@ -2,7 +2,7 @@ const farmAnimals = 'cow horse sheep pig chicken';
 
 const [caw,	neigh,bleat,oink,cluck] = farmAnimals.split(' ');
 const [bessie,,dolly, babe,little]=farmAnimals.split(' ');
-const [,blackAndWhite, black,pink,]=farmAnimals.split(' ');
+const [blackAndWhite,,black,pink]=farmAnimals.split(' ');
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 

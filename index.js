@@ -36,6 +36,9 @@ const nestedMuppet = {
   nestedPartner: 'Miss Piggy'
 };
 
+const {song2 ,song4 ,nestedJob ,nestedPartner} = nestedMuppet.album.theMuppetMovie;
+
+
 // Strings
 
 // 1. Use destructuring to assign appropriate variables based on the sounds animals make.
